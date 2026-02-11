@@ -28,23 +28,24 @@
 
 ---
 
-<h3 align="center">📊 My Statistics</h3>
+<h3 align="center"> My Statistics</h3>
 <p align="center">
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
 
-<img title="Streak Stats" alt="Streak" src="https://github-readme-streak-stats-eight.vercel.app?user=BinuriSenavirathna&theme=tokyonight&hide_border=true" />
+<img title="Streak Stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BinuriSenavirathna&theme=tokyonight&hide_border=true" />
 
 </td>
 <td width="70%" align="center">
 
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=BinuriSenavirathna&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinuriSenavirathna&layout=compact&theme=tokyonight&hide_border=true" />
 
 </td>
 </tr>
 </table>
 </p>
+
 
 ---
 
