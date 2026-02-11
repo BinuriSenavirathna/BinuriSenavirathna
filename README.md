@@ -13,11 +13,10 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🎓 Final-year **Computer Engineering Undergraduate** at **University of Peradeniya**  
-- 💻 Passionate about **full-stack development, machine learning, and real-time systems**  
-- 🚀 Currently working on **LLM-based code smell detection & VR multiplayer applications**  
-- 🌱 Continuously learning **cloud deployment, scalable architectures, and modern web technologies**  
-- 📫 Reach me at **bchirathma@gmail.com**
+- Final-year **Computer Engineering Undergraduate** at **University of Peradeniya**  
+- Passionate about **full-stack development, machine learning, and real-time systems**  
+- Currently working on **LLM-based code smell detection and Refactoring**   
+- Reach me at **bchirathma@gmail.com**
 
 </td>
 <td width="50%" align="center">
@@ -53,7 +52,7 @@
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/binuri-senavirathna" target="blank">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="50" width="50" />
+  <img src="https://www.linkedin.com/in/binuri-chirathma-6ab217261/" height="50" width="50" />
 </a>
 <a href="mailto:bchirathma@gmail.com" target="blank">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" height="50" width="50" />
@@ -68,25 +67,18 @@
 <h3 align="center">🛠️ Languages & Tools</h3>
 <p align="center">
 
-<!-- Programming -->
 <a href="https://www.java.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" height="50"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="50"/></a>
 <a href="https://www.python.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" height="50"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="50"/></a>
-
-<!-- Frontend & Backend -->
 <a href="https://reactjs.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" height="50"/></a>
 <a href="https://nextjs.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" height="50"/></a>
 <a href="https://nodejs.org"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" height="50"/></a>
 <a href="https://expressjs.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" height="50"/></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" height="50"/></a>
-
-<!-- Databases -->
 <a href="https://www.postgresql.org"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" height="50"/></a>
 <a href="https://www.mysql.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" height="50"/></a>
 <a href="https://www.mongodb.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="50"/></a>
-
-<!-- Tools -->
 <a href="https://www.docker.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="50"/></a>
 <a href="https://git-scm.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="50"/></a>
 <a href="https://postman.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" height="50"/></a>
